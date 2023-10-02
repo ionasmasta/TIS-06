@@ -1,3 +1,4 @@
+'''Импорт библиотек'''
 import time #Импортируем библиотеку time. Для использования пауз.
 from selenium import webdriver # Импортируем библиотеку веб-драйвера
 from selenium.webdriver.common.by import By # Импортируем библиотеку By
